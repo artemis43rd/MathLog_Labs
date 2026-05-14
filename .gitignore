@@ -1,1 +1,39 @@
+# Maven
 target/
+mvnw
+.mvn
+*.iml
+dependency-reduced-pom.xml
+applicationContext.xml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Compiled Java
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+lib/
+libs/
+
+# Operating System files
+.DS_Store
+Thumbs.db

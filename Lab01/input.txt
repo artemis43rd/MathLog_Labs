@@ -1,0 +1,10 @@
+//lab01
+begin
+    x :=T;
+    y :== F andand F;
+    z ::= x and y;
+    begi
+        resuasdasdasdasdasdasdlt := (x > y) or (z and not(x));
+    end;
+    x := 13a;
+end
